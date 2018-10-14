@@ -3,7 +3,7 @@ You've realised that sorting everything out on your own is impractical, and you 
 In the example above, the tasks quesadilla and parsnip can be done straight away, but you can't start tuna until porter has been done, and you can't start porter until both quesadilla and barley have been completed. kingfish requires three tasks to be finished before you can start it.
 
 You can draw up the dependency network between the tasks, and it will look something like this:
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/voyteca/summer-of-code/raw/master/2018/task4/task4_part1.txthttps/github.com/voyteca/summer-of-code/2018/Task4-Food%20factory/task4-sample.png)
 
 A network of tasks and dependencies
 
