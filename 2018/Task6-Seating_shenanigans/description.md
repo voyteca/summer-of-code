@@ -25,6 +25,9 @@ Two people are introducable if they have a mutual friend. In the example above, 
 
 A person's friendship group is In the set of people they will eventually know after following all the possible introductions. In the example above, there are three friendship groups, as shown in the diagram.
 
+![alt text](https://github.com/voyteca/summer-of-code/raw/master/2018/Task6-Seating_shenanigans/sample-groups.png)
+
+
 Some sample friendship groups
 
 Part 1
