@@ -6,4 +6,4 @@ Author of tasks:
   Dr Neil Smith
   
 
-Each task consits of description and associated data saved in a text file. 
+Each task consits of two parts/questions and associated data saved in a text file. 
