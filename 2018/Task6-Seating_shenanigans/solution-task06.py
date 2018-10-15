@@ -1,3 +1,8 @@
+"""Solution to Task 4 of Summer of Code"""
+
+__author__      = "Wojciech Czubak"
+__copyright__   = "Copyright 2018"
+
 #PART 1 & 2
 groups={} #dict of sets
 ID=0
