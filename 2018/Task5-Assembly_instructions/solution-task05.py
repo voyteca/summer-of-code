@@ -1,3 +1,8 @@
+"""Solution to Task 5 of Summer of Code"""
+
+__author__      = "Wojciech Czubak"
+__copyright__   = "Copyright 2018"
+
 import re #regular expression module
 
 #PART 1 & 2
