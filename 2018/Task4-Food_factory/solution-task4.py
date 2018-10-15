@@ -1,3 +1,8 @@
+"""Solution to Task 4 of Summern of Code"""
+
+__author__      = "Wojciech Czubak"
+__copyright__   = "Copyright 2018"
+
 #PART 1
 from functools import reduce
 print(reduce((lambda t, itemTime:t+itemTime),[int(l.split()[1]) for l in open("04-preparation.txt")]))
