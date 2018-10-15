@@ -1,3 +1,5 @@
+# Task 6: Seating shenanigans
+
 The final thing to sort out is where everyone's sitting.
 
 You want people who know each other to sit together. But as each person knows only a few of the attendees directly, you want to make it easy for people to get to know each other. 
