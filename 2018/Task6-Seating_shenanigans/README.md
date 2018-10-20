@@ -38,8 +38,6 @@ The friendships among your guests are listed in 06-friendships.txt. How many fri
 (The file contains exactly one friendship per line. On each line, there are two names, separated by spaces. Names can have non-letters in them, such as "Ella-Louise", but no name contains a space.)
 
 
-Question 2CorrectMark 1.00 out of 1.00Not flaggedFlag question
-Question text
 Part 2
 
 Now you've found all the friendship groups, how many people are in the largest friendship group?
