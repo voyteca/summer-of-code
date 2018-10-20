@@ -19,6 +19,7 @@ There's no particular order in the file: tasks can be listed in any order, and t
 The example shows that the task quesadilla takes 18 minutes and barley takes 20 minutes. All told, these tasks will take you 139 minutes to complete them all.
 
 Part 1
+
 Given the instructions file in 04-preparation.txt, how long will it take you to complete all the tasks?
 
 
@@ -35,4 +36,5 @@ A network of tasks and dependencies
 In this case, three people can start work on quesadilla, parsnip and barley at the same time. After 18 minutes, quesadilla is finished and someone can start work on linguine. After 20 minutes, barley is done and someone else can start work on porter. After 38 minutes, kingfish can start. It will take 64 minutes for you and your friends to complete the lot. 
 
 Part 2
+
 The instructions are still in 04-preparation.txt. With unlimited help, how long will it take to complete all the tasks?
