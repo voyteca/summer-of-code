@@ -34,6 +34,7 @@ has a single comment: < this should be 35 < 99 >. Once the comment is removed, t
 You can assume that every comment is properly closed. No comment spreads across more than one line: there are no line breaks inside comments.
 
 Part 1
+
 After you've removed all the comments from 05-instructions.txt, how many non-whitespace characters remain in the file? 
 
 ("Whitespace characters" are spaces, carriage returns, line feeds, and all that sort of thing. Before you remove comments or anything else, the downloaded instructions contain 165014 non-whitespace characters.)
@@ -83,6 +84,7 @@ The instructions are stored as a sequence of lines. Each line is compressed sepa
 If there aren't enough characters preceeding the expansion instruction, just use all the characters available. For instance, abc:10:2: should be treated the same as abc:3:2:, as there are only three characters before the expansion. Both these strings will expand to abcabc.
 
 Part 2
+
 The instructions are still in 05-instructions.txt, as ASCII text. 
 
 After you've removed all the comments, and then done all the expansion, how many non-whitespace characters remain in the file?
