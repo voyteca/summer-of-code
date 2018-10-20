@@ -1,3 +1,9 @@
+
+"""Solution to Task 7 of Summer of Code 2018"""
+
+__author__      = "Wojciech Czubak"
+__copyright__   = "Copyright 2018"
+
 #PART 1 & 2
 
 data=[l.split() for l in open("07-flips.txt")]
