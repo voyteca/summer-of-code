@@ -33,6 +33,7 @@ A person's friendship group is In the set of people they will eventually know af
 Some sample friendship groups
 
 Part 1
+
 The friendships among your guests are listed in 06-friendships.txt. How many friendship groups are there?
 
 (The file contains exactly one friendship per line. On each line, there are two names, separated by spaces. Names can have non-letters in them, such as "Ella-Louise", but no name contains a space.)
