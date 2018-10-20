@@ -1,13 +1,8 @@
 
-##f=open("02-rainfall.txt")
-##records=[]
-##record=int(f.readline())
-##while record<9999:
-##    records.append(record)
-##    record=int(f.readline())
-##
-##count=len(records)
-##print(count ,round(sum(records)/count))
+"""Solution to Task 2 of Summer of Code 2018"""
+
+__author__      = "Wojciech Czubak"
+__copyright__   = "Copyright 2018"
 
 f=open("02-rainfall.txt")
 record=int(f.readline())
