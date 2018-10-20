@@ -3,6 +3,10 @@
 __author__      = "Wojciech Czubak"
 __copyright__   = "Copyright 2018"
 
+# PART 1
+print(len([l for l in open("01-mowmaster.txt") if not l.startswith("#")]))
+
+# PART 2
 rotation={'C':{0:1,1:2,2:3,3:0},'A':{0:3,1:0,2:1,3:2}}
 directions=[[1,0],[0,-1],[-1,0],[0,1]]
 direction=0
