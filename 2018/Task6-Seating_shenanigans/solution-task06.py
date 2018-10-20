@@ -1,4 +1,4 @@
-"""Solution to Task 4 of Summer of Code"""
+"""Solution to Task 6 of Summer of Code 2018"""
 
 __author__      = "Wojciech Czubak"
 __copyright__   = "Copyright 2018"
